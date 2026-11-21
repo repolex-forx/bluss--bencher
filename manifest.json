@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "bluss",
+  "repo": "bencher",
+  "versions": [
+    {
+      "commit": "8afeeb1ccf7d9f58764a343a0099e140703ad287",
+      "parsed_at": "2026-11-21T23:22:27.622850+00:00",
+      "tag": "0.1.5",
+      "filetree": "filetree/8afeeb1ccf7d9f58764a343a0099e140703ad287.nq.gz",
+      "blobs": [
+        "blob/9203baa055d41d89e1ab8f4d6aa9180a49e078a7.nq.gz",
+        "blob/ba57dc1778f81a5463e57d9d454520005a23999f.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/d07633ef96120ec6f983b4b8ed370e8fcc4787b6.nq.gz",
+        "blob/3f4ea6bea4d87c448f285cb32bb6d5d4fbd8c224.nq.gz",
+        "blob/4ded546a78a91519dbe9e49b13fd8d4d8d2fa275.nq.gz",
+        "blob/1817b959f32f2fd18ad5c6c276929902fefee9da.nq.gz",
+        "blob/c09ae532b871efc38f6bfcd8125cd295c4c433f7.nq.gz",
+        "blob/042776aad729534e038599f1a5b8f4e8c78dae0e.nq.gz",
+        "blob/7685029bf630ab9d40f49db238b30257bb282cfa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
