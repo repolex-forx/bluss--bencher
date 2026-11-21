@@ -1,0 +1,11 @@
+{
+  "org": "bluss",
+  "repo": "bencher",
+  "versions": [
+    {
+      "commit": "8afeeb1ccf7d9f58764a343a0099e140703ad287",
+      "tag": "0.1.5",
+      "parsed_at": "2026-11-21T23:30:53.630723+00:00"
+    }
+  ]
+}
